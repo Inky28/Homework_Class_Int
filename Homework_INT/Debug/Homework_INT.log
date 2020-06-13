@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ігор\source\repos\Homework_INT\Homework_INT\main.cpp(93): warning C4715: 'Int::GetDiv': not all control paths return a value
+  Homework_INT.vcxproj -> C:\Users\Ігор\source\repos\Homework_INT\Debug\Homework_INT.exe
